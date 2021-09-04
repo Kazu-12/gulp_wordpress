@@ -25,14 +25,14 @@ gulp_wordpress
   ``` $git clone git@github.com:takuya-web/gulp_wordpress.git ```
 
 ## 3.gulp_wordpressディレクトリに移動し、gulpを起動
-``` $npx gulp --domain "サイトのドメイン" ```
+``` $npx gulp --domain "サイトのドメイン" ```  
 ※サイトのドメイン名はLocal by Flywheelの"Site Domain"を入力
 
 ## 4.コーディング
 PHP、Sass、Jsファイルの編集は```production```の中で行って下さい。
 
-【基本的な動作】
+【基本的な動作】  
 ・sassのコンパイル=>ベンダープレフィックス自動付与、メディアクエリの整理  
 ・起動時ローカルサーバーの立ち上げ  
 ・production/sass・php・jsファイルの変更を監視。変更があった場合はブラウザを自動でリロード。  
-　※sassの変更に関してはリロードは行われず、変更部分だけ反映されます。
+※sassの変更に関してはリロードは行われず、変更部分だけ反映されます。
