@@ -1,1 +1,1 @@
-document.getElementById( 'documentID' ).style.backgroundColor = 'pink';
+document.getElementById( 'documentID' ).style.color = 'pink';

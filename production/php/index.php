@@ -11,7 +11,7 @@
     <h1>sample</h1>
   </articl>
   <articl id="documentID">
-    <h1>sample</h1>
+    <h1>sample2</h1>
   </articl>
 </body>
 <?php get_footer(); ?>
