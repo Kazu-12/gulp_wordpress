@@ -26,7 +26,7 @@ gulp_wordpress
     "my theme"
     |
     ここで"git clone"して下さい。
-  ``` $git clone git@github.com:takuya-web/gulp_wordpress.git ```
+  ``` $git clone https://github.com/takuya-web/gulp_wordpress.git ```
 
 ## 3.gulp_wordpressディレクトリに移動し、gulpを起動
 ``` $npx gulp --domain "サイトのドメイン" ```  
