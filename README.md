@@ -13,7 +13,7 @@ gulp_wordpress
 ```
 
 ## 1.Local by FlywheelでWordPress開発環境を構築  
-※```style.php```は予めご用意下さい。
+※```style.css```は予めご用意下さい。
 
 ## 2.作業ディレクトリ
     wp-content
