@@ -6,6 +6,9 @@
 gulp_wordpress
 ├─ node_modules
 ├─ production     //作業ディレクトリです。
+|  ├─js
+|  ├─php
+|  └─sass
 ├─ gulpfile.js    //gulp設定ファイル
 ├─ package.json
 ├─ package-lock.json
