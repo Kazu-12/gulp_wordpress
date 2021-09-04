@@ -12,7 +12,8 @@ gulp_wordpress
 └─ README.md
 ```
 
-## 1.Local by FlywheelでWordPress開発環境を構築
+## 1.Local by FlywheelでWordPress開発環境を構築  
+※```style.php```は予めご用意下さい。
 
 ## 2.作業ディレクトリ
     wp-content
